@@ -18,4 +18,4 @@ public class BasicJave {
 
 
 
-}//calss
+}//Class
