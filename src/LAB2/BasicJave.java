@@ -1,6 +1,6 @@
 package LAB2;
 
-public class BasicJave {
+public class BasicJava {
 
     public static void main(String[] args) {
         System.out.println("Data Type in Programming.");
