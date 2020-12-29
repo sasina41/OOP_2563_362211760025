@@ -16,6 +16,4 @@ public class BasicJava {
 
     }//main
 
-
-
 }//Class
