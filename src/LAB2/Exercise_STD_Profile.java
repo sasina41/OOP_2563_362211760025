@@ -6,22 +6,10 @@ public class Exercise_STD_Profile {
 
     public static void main(String[] args) {
 
-        Scanner scanner = new Scanner(System.in);
-        System.out.print("Enter message: ");
-        String name = scanner.nextLine();
+        Scanner sc = new Scanner(System.in);
 
-        System.out.println("Enter integer: ");
-        String std_id = scanner.nextLine();
-
-        System.out.println("Enter integer: ");
-        String Age = scanner.nextLine();
-
-        System.out.println("Enter integer: ");
-        String ber = scanner.nextLine();
-
-        System.out.println("Enter integer: ");
-        String mail = scanner.nextLine();
-
+        System.out.print("Enter integer: ");
+        int x = Integer.parseInt(sc.nextLine());
 
 
 
