@@ -13,7 +13,7 @@ public class StudentApp {
 
         std1.introduce();
 
-        Student std2 = new Student();
+        Student std2 = new Student();//==> call constructor
         std2.name = "Piyapong Senanut";
         std2.age = 37;
         std2.major = "AC";
